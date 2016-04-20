@@ -3,7 +3,7 @@
 						Overall structure of the software application can be represented in the logical grouping of components into layers that interact with each other according to the functionality and features of the application. This chapter will focus on how the application is divided into components and the services provided by each layer.These layers help to uniquely identify the different kind of task performed by each components. Each layer would consist of multiple sub layers which performs specific type of task which would greatly help while debugging.
 
 \begin{figure}[!htb]
-  \includegraphics[width=\linewidth]{figures/SwArch.png}
+  \includegraphics[width=\linewidth]{figures/SoftwareArch.png}
 	 \caption{Software Application Architecture}
   \label{fig: Software Application Architecture}
 \end{figure}						
@@ -36,18 +36,28 @@
 
 \subsection{Issues and Add-on - Business Layer}	
   		The business layer includes the previous add-ons like caching 
+  		
+
+
+
+Data Layer
+Batching : To achieve high performance , the similar queries are batched avoiding multiple database request and execution. Each database request is considered to be a overhead. Batched commands reduces the round trip time to database and minimizes network traffic as well as the size of the connection pool.
+
+
 \begin{description}
-  \item[$\bullet$]{\bfseries Caching :} 
+  \item[$\bullet$]{\bfseries Authentication : } Security and reliability of an application is important for business layer where authentication comes into picture.If your business layer will be used by multiple application , plugging an  authentication mechanism  into the business layer ensures the security of the sensitive data. In case of client server application, the application layer lies in client and the business layer lies in server application. Both application communicates over network since they are deployed in different machines. In this case, a centralised platform which handles authentication is mandatory for the reliability of the application
+  \item[$\bullet$]{\bfseries Authorization :} In most of the applications the authorization components manages issues like information disclosure and user privileges for specific activity.Authorization are used to allow specific group of user to perform some sensitive business information and view some sensitive data. It promotes hierarchy of user privileges and the related operations ensuring security of the data sources.It is important to implement the authorization code in a modular way which doesn’t  impact on performance of the application and doesn’t have any dependency with business layer .
+  \item[$\bullet$]{\bfseries Logging and Auditing :}  Maintaining a centralised logging and auditing system would be useful in tracking the issues in production and the illegal user actions in important situations. System Monitoring tools are used to identify state and performance of the application. Logging helps to track this performance and the load handled by the application. It is important to ensure that logging failure doesn’t affect the functionalities of business layer.   
 \end{description}  
 
 \subsection{Issues and Add-on - Data Layer}	
 
 \begin{description}
-  \item[$\bullet$]{\bfseries Caching :} 
+  \item[$\bullet$]{\bfseries Batching :}  To achieve high performance , the similar queries are batched avoiding multiple database request and execution. Each database request is considered to be a overhead. Batched commands reduces the round trip time to database and minimizes network traffic as well as the size of the connection pool.
+ \item[$\bullet$]{\bfseries Connection :} Establishing connection to data sources is considered to be basic part of data access layer.Creating and maintaining data sources connection  in inefficient way directly impacts the performance of the applications. Connection pooling within a security model would serve the purpose in efficient way.Holding connection for short period and avoiding the usage of user DSN or system DSN would help to achieve high performance and security. 
+ \item[$\bullet$]{\bfseries Object Relational Mapping (ORM) :} When the application is designed using object oriented model, It is difficult to translate the relational model to business entities. ORM can be used to create schema which supports the object model and provides a mapping between the database and domain entities.When working with Web applications or services, group entities and support options that will partially load domain entities with only the required data—a process usually referred to as lazy loading. This allows applications to handle the higher user load required to support stateless operations, and limit the use of resources by avoiding holding initialized domain models for each user in memory.
 \end{description}  
 
 \subsection{Issues and Add-on - Service Layer}	
-
-\begin{description}
-  \item[$\bullet$]{\bfseries Caching :} 
-\end{description}  
+                        In case of external application acting as service consumer or the application is designed in client server model, the service layer acts as interface between the systems. Service Interface represent the operations supported and their associated parameters and data transfer objects. To avoid multiple call over network, the service interface are designed to serve multiple operations grouped based on business logics. Authentication is used to determine the identity of the service consumer.Authorization is used to determine which resources or actions can be accessed/possessed by an authenticated service consumer. Communication component can be designed based on the requirement like request-response ,duplex communication and asynchronous communication.Message queueing can be used to handle tremendous burst of asynchronous message .
+ 
