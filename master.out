@@ -2,3 +2,85 @@
 \BOOKMARK [0][-]{label:contents.0}{Contents}{}% 2
 \BOOKMARK [0][-]{chapter.1}{1 Introduction}{}% 3
 \BOOKMARK [1][-]{section.1.1}{1.1 Command-Line Application}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{1.2 Desktop Application}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{1.3 Web Application}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.4}{1.4 Mobile Application}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{2 Software Application Architecture}{}% 8
+\BOOKMARK [1][-]{section.2.1}{2.1 Basic Architecture Layer}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{2.2 \040Requirement-Based Components }{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Issues and Add-on - Presentation Layer}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Issues and Add-on - Business Layer}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Issues and Add-on - Data Layer}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.4}{2.2.4 Issues and Add-on - Service Layer}{section.2.2}% 14
+\BOOKMARK [0][-]{chapter.3}{3 Presentation Layer}{}% 15
+\BOOKMARK [1][-]{section.3.1}{3.1 Mobile Application}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Apache Cordova - Frameworks}{section.3.1}% 17
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Ionic - Frameworks}{section.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.1.3}{3.1.3 Mobile Angular UI - Frameworks}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.4}{3.1.4 Xamarin - Frameworks}{section.3.1}% 20
+\BOOKMARK [1][-]{section.3.2}{3.2 Web Application}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{3.3 Desktop Application}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{3.4 General Tools}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 ReactiveX - libraries}{section.3.4}% 24
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 picasso - librares}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 HTML 5 - Languages}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.4}{3.4.4 Swift - Languages}{section.3.4}% 27
+\BOOKMARK [2][-]{subsection.3.4.5}{3.4.5 Java - Language}{section.3.4}% 28
+\BOOKMARK [0][-]{chapter.4}{4 Business Layer}{}% 29
+\BOOKMARK [1][-]{section.4.1}{4.1 Mobile Back End}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Parse}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Appcelerator}{section.4.1}% 32
+\BOOKMARK [1][-]{section.4.2}{4.2 Web Server}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 NGINX}{section.4.2}% 34
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Apache HTTP Server}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Microsoft IIS}{section.4.2}% 36
+\BOOKMARK [1][-]{section.4.3}{4.3 Business Process Management}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Java Business Process Management}{section.4.3}% 38
+\BOOKMARK [1][-]{section.4.4}{4.4 Real Time Back End}{chapter.4}% 39
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Socket.IO}{section.4.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Firebase}{section.4.4}% 41
+\BOOKMARK [1][-]{section.4.5}{4.5 Platform as a Service}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.5.1}{4.5.1 Heroku}{section.4.5}% 43
+\BOOKMARK [2][-]{subsection.4.5.2}{4.5.2 Google App Engine}{section.4.5}% 44
+\BOOKMARK [0][-]{chapter.5}{5 Data Layer}{}% 45
+\BOOKMARK [1][-]{section.5.1}{5.1 Cache}{chapter.5}% 46
+\BOOKMARK [2][-]{subsection.5.1.1}{5.1.1 Ehcache}{section.5.1}% 47
+\BOOKMARK [1][-]{section.5.2}{5.2 Message Queue}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 RabbitMQ}{section.5.2}% 49
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Kafka}{section.5.2}% 50
+\BOOKMARK [1][-]{section.5.3}{5.3 Object Relational Mapper}{chapter.5}% 51
+\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1 Hibernate}{section.5.3}% 52
+\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 Doctrine 2}{section.5.3}% 53
+\BOOKMARK [1][-]{section.5.4}{5.4 Managed Memcache}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.4.1}{5.4.1 Amazon ElastiCache}{section.5.4}% 55
+\BOOKMARK [1][-]{section.5.5}{5.5 Mobile Database}{chapter.5}% 56
+\BOOKMARK [2][-]{subsection.5.5.1}{5.5.1 Realm}{section.5.5}% 57
+\BOOKMARK [2][-]{subsection.5.5.2}{5.5.2 Couchbase}{section.5.5}% 58
+\BOOKMARK [1][-]{section.5.6}{5.6 In - Memory Database}{chapter.5}% 59
+\BOOKMARK [2][-]{subsection.5.6.1}{5.6.1 Redis}{section.5.6}% 60
+\BOOKMARK [2][-]{subsection.5.6.2}{5.6.2 Aerospike}{section.5.6}% 61
+\BOOKMARK [1][-]{section.5.7}{5.7 Platform as a Service}{chapter.5}% 62
+\BOOKMARK [2][-]{subsection.5.7.1}{5.7.1 Heroku}{section.5.7}% 63
+\BOOKMARK [2][-]{subsection.5.7.2}{5.7.2 Google App Engine}{section.5.7}% 64
+\BOOKMARK [0][-]{chapter.6}{6 Data Store}{}% 65
+\BOOKMARK [1][-]{section.6.1}{6.1 Database}{chapter.6}% 66
+\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Mysql}{section.6.1}% 67
+\BOOKMARK [2][-]{subsection.6.1.2}{6.1.2 MongoDB}{section.6.1}% 68
+\BOOKMARK [2][-]{subsection.6.1.3}{6.1.3 PostgreSql}{section.6.1}% 69
+\BOOKMARK [2][-]{subsection.6.1.4}{6.1.4 SQLite}{section.6.1}% 70
+\BOOKMARK [2][-]{subsection.6.1.5}{6.1.5 Oracle}{section.6.1}% 71
+\BOOKMARK [1][-]{section.6.2}{6.2 Graph Database}{chapter.6}% 72
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Neo4j}{section.6.2}% 73
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Titan}{section.6.2}% 74
+\BOOKMARK [1][-]{section.6.3}{6.3 Mobile Database}{chapter.6}% 75
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Realm}{section.6.3}% 76
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Couchbase}{section.6.3}% 77
+\BOOKMARK [1][-]{section.6.4}{6.4 In - Memory Database}{chapter.6}% 78
+\BOOKMARK [2][-]{subsection.6.4.1}{6.4.1 Redis}{section.6.4}% 79
+\BOOKMARK [2][-]{subsection.6.4.2}{6.4.2 Aerospike}{section.6.4}% 80
+\BOOKMARK [1][-]{section.6.5}{6.5 Cloud Storage}{chapter.6}% 81
+\BOOKMARK [2][-]{subsection.6.5.1}{6.5.1 Amazon S3}{section.6.5}% 82
+\BOOKMARK [2][-]{subsection.6.5.2}{6.5.2 Amazon EBS}{section.6.5}% 83
+\BOOKMARK [2][-]{subsection.6.5.3}{6.5.3 Google Cloud Storage}{section.6.5}% 84
+\BOOKMARK [0][-]{chapter.7}{7 Conclusion}{}% 85
+\BOOKMARK [0][-]{appendix.A}{A Appendix A name}{}% 86

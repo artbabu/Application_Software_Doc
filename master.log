@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.3)  19 APR 2016 17:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.3)  20 APR 2016 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1344,1226 +1344,222 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 7.
-[3] (./figures/MobAppTypes.png
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 â
-     PNG
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ^^Z
-       
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Text line contains an invalid character.
-l.3 ^^@
-       ^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.3 ^^@^^@
-          ^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.3 ^^@^^@^^@
-             
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@
-           ^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@
-              ^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C
-                 ©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©
-                  ^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@^^C©^^@
-                     ^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@^^C©^^@^^@
-                        ^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^A
-                           á^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá
-                            ^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H
-                               ^^B^^@^^@^^@›ÑÉã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B
-                                  ^^@^^@^^@›ÑÉã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@
-                                     ^^@^^@›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@
-                                        ^^@›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@
-                                           ›ÑÉã^^@^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-
-! Package inputenc Error: Unicode char \u8:›Ñ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›Ñ
-                                             Éã^^@^^@
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉ
-                                              ã^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã
-                                               ^^@^^@
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Text line contains an invalid character.
-l.4 IHDR^^@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@
-                                                  ^^@
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.4 ...@^^@^^C©^^@^^@^^Aá^^H^^B^^@^^@^^@›ÑÉã^^@^^@
-                                                  
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 Ω
-     iCCPICC Profile^^@^^@H
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Text line contains an invalid character.
-l.5 ΩiCCPICC Profile^^@
-                       ^^@H
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.5 ΩiCCPICC Profile^^@^^@
-                          H
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠
-     ñw\S…^^V«ÁﬁÙFKàÄî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñ
-      w\S…^^V«ÁﬁÙFKàÄî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:…^^V not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñw\S…^^V
-             «ÁﬁÙFKàÄî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:«Á not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñw\S…^^V«Á
-               ﬁÙFKàÄî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ﬁÙ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñw\S…^^V«ÁﬁÙ
-                 FKàÄî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñw\S…^^V«ÁﬁÙFKà
-                    Äî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñw\S…^^V«ÁﬁÙFKàÄ
-                     î–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ≠ñw\S…^^V«ÁﬁÙFKàÄî
-                      –{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Text line contains an invalid character.
-l.6 ≠ñw\S…^^V«ÁﬁÙFKàÄî–{o^^A§◊^^@
-                                 J^^GA^^TB^^R^^H-Ñê^^@"**ã+X^^QëbE^^VA^^T\ ...
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.6 ...^V«ÁﬁÙFKàÄî–{o^^A§◊^^@J^^GA^^TB^^R^^H-Ñê^^@
-                                                  "**ã+X^^QëbE^^VA^^T\ kA@±...
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.7 <‚~ﬁÁÌ^^?oÚôôoŒ¸Ê‹3Áﬁ˘|^^N^^@
-                                 ‰F∂Pò^^A+^^@ê)^^Pã¬˝Ω^^Xãc„^^X∏ß^^@^^B0 ^^@...
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.7 <‚~ﬁÁÌ^^?oÚôôoŒ¸Ê‹3Áﬁ˘|^^N^^@‰F∂Pò^^A+^^@
-                                             ê)^^Pã¬˝Ω^^Xãc„^^X∏ß^^@^^B0 ^^@...
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.7 ...˘|^^N^^@‰F∂Pò^^A+^^@ê)^^Pã¬˝Ω^^Xãc„^^X∏ß^^@
-                                                  ^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^...
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Text line contains an invalid character.
-l.7 ...‰F∂Pò^^A+^^@ê)^^Pã¬˝Ω^^Xãc„^^X∏ß^^@^^B0 ^^@
-                                                  ^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“...
-A funny symbol that I can't read has just been input.
-Continue, and I'll forget that it ever happened.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-! Package inputenc Error: Unicode char \u8:–o not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:◊J not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+[3] <figures/MobAppTypes.png, id=470, 940.51375pt x 392.46625pt>
+File: figures/MobAppTypes.png Graphic file (type png)
 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+<use figures/MobAppTypes.png>
+Package pdftex.def Info: figures/MobAppTypes.png used on input line 29.
+(pdftex.def)             Requested size: 2821.53438pt x 1177.39581pt.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 30.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+[4])
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[5 <./figures/MobAppTypes.png>] [6
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+] (./sections/ch2name.tex
+Chapter 2.
+<figures/SoftwareArch.png, id=484, 765.86125pt x 841.1425pt>
+File: figures/SoftwareArch.png Graphic file (type png)
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+<use figures/SoftwareArch.png>
+Package pdftex.def Info: figures/SoftwareArch.png used on input line 6.
+(pdftex.def)             Requested size: 401.18387pt x 440.61815pt.
+ [7
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+]
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+[8 <./figures/SoftwareArch.png>]
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 28.
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+[9]
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[10])
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+[11] [12
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+] (./sections/ch3name.tex
+Chapter 3.
+<figures/nativeMobApp.png, id=515, 739.76375pt x 484.81125pt>
+File: figures/nativeMobApp.png Graphic file (type png)
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+<use figures/nativeMobApp.png>
+Package pdftex.def Info: figures/nativeMobApp.png used on input line 14.
+(pdftex.def)             Requested size: 401.18387pt x 262.91861pt.
+ [13
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
 
+]
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+[14 <./figures/nativeMobApp.png>]
+<figures/hybridMobApp.png, id=526, 675.52374pt x 344.28625pt>
+File: figures/hybridMobApp.png Graphic file (type png)
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+<use figures/hybridMobApp.png>
+Package pdftex.def Info: figures/hybridMobApp.png used on input line 29.
+(pdftex.def)             Requested size: 401.18387pt x 204.47198pt.
 
+<figures/XamarinhybridApp.png, id=527, 665.48625pt x 394.47375pt>
+File: figures/XamarinhybridApp.png Graphic file (type png)
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+<use figures/XamarinhybridApp.png>
+Package pdftex.def Info: figures/XamarinhybridApp.png used on input line 44.
+(pdftex.def)             Requested size: 401.18387pt x 237.80563pt.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[15 <./figures/hybridMobApp.png>])
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+[16 <./figures/XamarinhybridApp.png>]
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+[17] [18
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+] (./sections/ch4name.tex
+Chapter 4.
+) [19
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
 
-! Undefined control sequence.
-<argument> ...GA^^TB^^R^^H-Ñê"**ã+X^^QëbE^^VA^^T\
-                                                   kA@±-äΩ/»¢†<^^W6Tﬁ <‚~ﬁÁ...
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+] [20
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+] (./sections/ch5name.tex
+Chapter 5.
+) [21
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+]
+Overfull \vbox (81.65825pt too high) has occurred while \output is active []
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+[22] (./sections/ch6name.tex
+Chapter 6.
+) [23
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+]
+Overfull \vbox (61.19676pt too high) has occurred while \output is active []
 
 
-! Package inputenc Error: Unicode char \u8:»¢ not set up for use with LaTeX.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+[24] (./sections/conclusion.tex
+Chapter 7.
+)
 
+LaTeX Warning: Empty bibliography on input line 49.
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+(./sections/appAname.tex [25
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
 
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+] [26
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+]
+Appendix A.
+)
+\tf@thm=\write7
+\openout7 = `master.thm'.
 
+ 
+AED: lastpage setting LastPage
+[27]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+ (./master.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
+Package rerunfilecheck Info: File `master.out' has not changed.
+(rerunfilecheck)             Checksum: 5D51119B8C6738D1780A8426F21D474C;5976.
+Package logreq Info: Writing requests to 'master.run.xml'.
+\openout1 = `master.run.xml'.
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:ﬁ< not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:‚~ﬁ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ÁÌ^^? not set up for use with LaTeX.
-
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:Úôôo not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:Œ¸ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:Ê‹3 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:Áﬁ˘ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:‰F∂ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:¬˝ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:„^^X∏ not set up for use with LaTeX.
-
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:œÊ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:‰^^H= not set up for use with LaTeX.
-
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:“n not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.7 ...∏ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}
-                                                  ˝£Ï^^?/(ry9^^\^^@†Pd9âõ√…D...
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...ß^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}˝
-                                                  £Ï^^?/(ry9^^\^^@†Pd9âõ√…D¯...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...^^@^^B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}˝£
-                                                  Ï^^?/(ry9^^\^^@†Pd9âõ√…D¯^...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char \u8:Ï^^?/ not set up for use with LaTeX.
-
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...B0 ^^@^^G†œÊ‰^^H=CCÉ¡?∂^^Ow^^Q5“nôK}˝£Ï^^?/
-                                                  (ry9^^\^^@†Pd9âõ√…D¯^^D“∑r...
-(That makes 100 errors; please try again.) 
+ ) 
 Here is how much of TeX's memory you used:
- 22903 strings out of 493304
- 390893 string characters out of 6139871
+ 22979 strings out of 493304
+ 392099 string characters out of 6139871
  733997 words of memory out of 5000000
- 25809 multiletter control sequences out of 15000+600000
- 35139 words of font info for 63 fonts, out of 8000000 for 9000
+ 25830 multiletter control sequences out of 15000+600000
+ 42640 words of font info for 73 fonts, out of 8000000 for 9000
  962 hyphenation exceptions out of 8191
- 65i,11n,57p,895b,3066s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,12n,75p,953b,3084s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/palatino/uplr8a.pfb>
+Output written on master.pdf (31 pages, 317517 bytes).
+PDF statistics:
+ 632 PDF objects out of 1000 (max. 8388607)
+ 581 compressed objects within 6 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 726 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
