@@ -40,19 +40,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Web Application}{16}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Desktop Application}{16}{section.3.3}
+\contentsline {subsection}{\numberline {3.2.1}Bootstrap - Framework}{17}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}General Tools}{16}{section.3.4}
+\contentsline {subsection}{\numberline {3.2.2}Foundation - Framework}{17}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}ReactiveX - libraries}{16}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.2.3}AngularJS - Framework}{17}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}picasso - librares}{17}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.3}General Tools}{17}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}HTML 5 - Languages}{17}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.3.1}ReactiveX - libraries}{17}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Swift - Languages}{17}{subsection.3.4.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Java - Language}{17}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.3.2}jquery - librares}{18}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Business Layer}{19}{chapter.4}
 \defcounter {refsection}{0}\relax 
