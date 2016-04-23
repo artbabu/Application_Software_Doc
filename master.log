@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.3)  21 APR 2016 15:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.3)  22 APR 2016 18:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1344,7 +1344,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 7.
-[3] <figures/MobAppTypes.png, id=480, 940.51375pt x 392.46625pt>
+[3] <figures/MobAppTypes.png, id=465, 940.51375pt x 392.46625pt>
 File: figures/MobAppTypes.png Graphic file (type png)
 
 <use figures/MobAppTypes.png>
@@ -1371,7 +1371,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ] (./sections/ch2name.tex
 Chapter 2.
-<figures/SoftwareArch.png, id=495, 765.86125pt x 841.1425pt>
+<figures/SoftwareArch.png, id=479, 765.86125pt x 841.1425pt>
 File: figures/SoftwareArch.png Graphic file (type png)
 
 <use figures/SoftwareArch.png>
@@ -1416,7 +1416,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ] (./sections/ch3name.tex
 Chapter 3.
-<figures/nativeMobApp.png, id=525, 739.76375pt x 484.81125pt>
+<figures/nativeMobApp.png, id=510, 739.76375pt x 484.81125pt>
 File: figures/nativeMobApp.png Graphic file (type png)
 
 <use figures/nativeMobApp.png>
@@ -1433,14 +1433,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [14 <./figures/nativeMobApp.png>]
-<figures/hybridMobApp.png, id=536, 675.52374pt x 344.28625pt>
+<figures/hybridMobApp.png, id=521, 675.52374pt x 344.28625pt>
 File: figures/hybridMobApp.png Graphic file (type png)
 
 <use figures/hybridMobApp.png>
 Package pdftex.def Info: figures/hybridMobApp.png used on input line 29.
 (pdftex.def)             Requested size: 401.18387pt x 204.47198pt.
 
-<figures/XamarinhybridApp.png, id=537, 665.48625pt x 394.47375pt>
+<figures/XamarinhybridApp.png, id=522, 665.48625pt x 394.47375pt>
 File: figures/XamarinhybridApp.png Graphic file (type png)
 
 <use figures/XamarinhybridApp.png>
@@ -1486,12 +1486,18 @@ Chapter 4.
 
 
 
-] [20
+]
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-] (./sections/ch5name.tex
+[20] (./sections/ch5name.tex
 Chapter 5.
 ) [21
+
+
 
 
 ]
@@ -1506,14 +1512,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [22] (./sections/ch6name.tex
 Chapter 6.
-) [23
+[23
 
 
 
 
 ]
-Overfull \vbox (61.19676pt too high) has occurred while \output is active []
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24]
+<figures/Couchbase-Mobile-IOT-Database.jpg, id=570, 640.3925pt x 480.79625pt>
+File: figures/Couchbase-Mobile-IOT-Database.jpg Graphic file (type jpg)
+
+<use figures/Couchbase-Mobile-IOT-Database.jpg>
+Package pdftex.def Info: figures/Couchbase-Mobile-IOT-Database.jpg used on inpu
+t line 31.
+(pdftex.def)             Requested size: 401.18387pt x 301.20853pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1521,18 +1539,33 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] (./sections/conclusion.tex
+[25 <./figures/Couchbase-Mobile-IOT-Database.jpg>])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27] [28
+
+
+] (./sections/conclusion.tex
 Chapter 7.
 )
 
 LaTeX Warning: Empty bibliography on input line 49.
 
-(./sections/appAname.tex [25
+(./sections/appAname.tex [29
 
 
-
-
-] [26
+] [30
 
 
 ]
@@ -1543,50 +1576,34 @@ Appendix A.
 
  
 AED: lastpage setting LastPage
-[27]
+[31]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
  (./master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
-
-
-Package rerunfilecheck Warning: File `master.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `master.out':
-(rerunfilecheck)             Before: 03ED6C996B63E887AD127D6F12851373;6149
-(rerunfilecheck)             After:  89DE652E615C8D54B776D8846AFDF96F;5919.
+Package rerunfilecheck Info: File `master.out' has not changed.
+(rerunfilecheck)             Checksum: 969F3A427C41DCDBE341E1F33803F407;5943.
 Package logreq Info: Writing requests to 'master.run.xml'.
 \openout1 = `master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22983 strings out of 493304
- 392177 string characters out of 6139871
+ 22991 strings out of 493304
+ 392387 string characters out of 6139871
  733997 words of memory out of 5000000
- 25832 multiletter control sequences out of 15000+600000
+ 25836 multiletter control sequences out of 15000+600000
  42640 words of font info for 73 fonts, out of 8000000 for 9000
  962 hyphenation exceptions out of 8191
- 65i,12n,75p,1065b,3084s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.3.3.5} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.3.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.3.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/palatino/uplr8a.pfb>
-Output written on master.pdf (31 pages, 320913 bytes).
+ 65i,12n,75p,1601b,3084s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/palatino/uplr8a.pfb>
+Output written on master.pdf (35 pages, 399271 bytes).
 PDF statistics:
- 642 PDF objects out of 1000 (max. 8388607)
- 591 compressed objects within 6 object streams
- 126 named destinations out of 1000 (max. 500000)
- 742 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 646 PDF objects out of 1000 (max. 8388607)
+ 590 compressed objects within 6 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 723 words of extra memory for PDF output out of 10000 (max. 10000000)
 

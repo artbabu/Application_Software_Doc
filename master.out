@@ -62,24 +62,24 @@
 \BOOKMARK [2][-]{subsection.5.7.1}{5.7.1 Heroku}{section.5.7}% 62
 \BOOKMARK [2][-]{subsection.5.7.2}{5.7.2 Google App Engine}{section.5.7}% 63
 \BOOKMARK [0][-]{chapter.6}{6 Data Store}{}% 64
-\BOOKMARK [1][-]{section.6.1}{6.1 Database}{chapter.6}% 65
-\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Mysql}{section.6.1}% 66
-\BOOKMARK [2][-]{subsection.6.1.2}{6.1.2 MongoDB}{section.6.1}% 67
-\BOOKMARK [2][-]{subsection.6.1.3}{6.1.3 PostgreSql}{section.6.1}% 68
-\BOOKMARK [2][-]{subsection.6.1.4}{6.1.4 SQLite}{section.6.1}% 69
-\BOOKMARK [2][-]{subsection.6.1.5}{6.1.5 Oracle}{section.6.1}% 70
-\BOOKMARK [1][-]{section.6.2}{6.2 Graph Database}{chapter.6}% 71
-\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Neo4j}{section.6.2}% 72
-\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Titan}{section.6.2}% 73
-\BOOKMARK [1][-]{section.6.3}{6.3 Mobile Database}{chapter.6}% 74
-\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Realm}{section.6.3}% 75
-\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Couchbase}{section.6.3}% 76
-\BOOKMARK [1][-]{section.6.4}{6.4 In - Memory Database}{chapter.6}% 77
-\BOOKMARK [2][-]{subsection.6.4.1}{6.4.1 Redis}{section.6.4}% 78
-\BOOKMARK [2][-]{subsection.6.4.2}{6.4.2 Aerospike}{section.6.4}% 79
-\BOOKMARK [1][-]{section.6.5}{6.5 Cloud Storage}{chapter.6}% 80
-\BOOKMARK [2][-]{subsection.6.5.1}{6.5.1 Amazon S3}{section.6.5}% 81
-\BOOKMARK [2][-]{subsection.6.5.2}{6.5.2 Amazon EBS}{section.6.5}% 82
-\BOOKMARK [2][-]{subsection.6.5.3}{6.5.3 Google Cloud Storage}{section.6.5}% 83
+\BOOKMARK [1][-]{section.6.1}{6.1 Relational Database}{chapter.6}% 65
+\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Usage}{section.6.1}% 66
+\BOOKMARK [1][-]{section.6.2}{6.2 Mobile Database}{chapter.6}% 67
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Couchbase Mobile}{section.6.2}% 68
+\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Realm}{section.6.2}% 69
+\BOOKMARK [1][-]{section.6.3}{6.3 Key - Value Database}{chapter.6}% 70
+\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Redis}{section.6.3}% 71
+\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Oracle NoSQL}{section.6.3}% 72
+\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 MongoDB}{section.6.3}% 73
+\BOOKMARK [1][-]{section.6.4}{6.4 Graph Database}{chapter.6}% 74
+\BOOKMARK [2][-]{subsection.6.4.1}{6.4.1 Neo4j}{section.6.4}% 75
+\BOOKMARK [2][-]{subsection.6.4.2}{6.4.2 Titan}{section.6.4}% 76
+\BOOKMARK [1][-]{section.6.5}{6.5 In - Memory Database}{chapter.6}% 77
+\BOOKMARK [2][-]{subsection.6.5.1}{6.5.1 Redis}{section.6.5}% 78
+\BOOKMARK [2][-]{subsection.6.5.2}{6.5.2 Aerospike}{section.6.5}% 79
+\BOOKMARK [1][-]{section.6.6}{6.6 Cloud Storage}{chapter.6}% 80
+\BOOKMARK [2][-]{subsection.6.6.1}{6.6.1 Amazon S3}{section.6.6}% 81
+\BOOKMARK [2][-]{subsection.6.6.2}{6.6.2 Amazon EBS}{section.6.6}% 82
+\BOOKMARK [2][-]{subsection.6.6.3}{6.6.3 Google Cloud Storage}{section.6.6}% 83
 \BOOKMARK [0][-]{chapter.7}{7 Conclusion}{}% 84
 \BOOKMARK [0][-]{appendix.A}{A Appendix A name}{}% 85
