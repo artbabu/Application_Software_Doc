@@ -1,35 +1,55 @@
 \chapter{Data Layer}\label{ch:ch5label}
 
+		
+		Data layer consist of logics to access data and handler to manage the service provided by the other  applications. Centralising the Data access logics makes the application easier to configure and maintain.The frameworks are available which comes with in built data access and data sources structure to application entities mapping functionality. While requesting for the service from the other application, there is a need for the functionality which manages the process of communication with that service provider, offline support and basic mapping between data exposed from service provider and the application format. Both of these services and the data access logics are mostly abstracted from other layers as a part of security and maintenance. The data consumer interact with the abstract interface using business entities .
+
 \section{Cache} 
 
 \subsection{Ehcache}
+			
+			Ehcache is an open source in-memory cache that boosts performance by reducing the redundant operations. The redundant operations are avoided by storing the result created by that time consuming functions or frequently used data from databases in local memory which in turn improves the performance of the algorithm incorporated in business layer and simplifies scalability. It's the most widely-used Java-based cache because it's robust, proven, full-featured, and integrates with other popular libraries and frameworks. Ehcache requires no initial configuration which makes it easy to maintain on deployment.  Big Memory Go Ehcache’s project easily integrates with the Hibernate Object/Relational persistence and query service.Big memory allows application to store data outside JVM ( off-heap store) that is in machine memory for ultra fast access. The combination of Big Memory with Ehcache grealty extends the memory available for caching. The Ehcache API is used in the following topologies:
+			
+\begin{description}
+	\item[$\bullet$] {\bfseries Standalone :} The cached data set is held in the application node that has no communication with other application. If standalone caching is being used where there are multiple application nodes running the same application, then the consistency between them is lost. They contain consistent values for immutable data or after the time to live on an Element has completed and the Element needs to be reloaded. 
+	\item[$\bullet$] {\bfseries Distributed :}  Distributed caching enables data sharing among multiple CacheManagers and their caches in multiple JVMs. By combining the power of the Terracotta Server Array with the ease of Ehcache application-data caching,consistency in data is achieved and increases the application performance with distributed in-memory data.Distributed caching is recommended in a clustered applications.
+	\item[$\bullet$] {\bfseries Replicated :} The cached data set is held in each application node and data is copied or invalidated across the cluster without locking. Replication can be either asynchronous or synchronous, where the writing thread blocks while propagation occurs. 
+\end{description}				
+
+	
+	Many production applications are deployed in clusters of multiple instances for availability and scalability. However, without a distributed or replicated cache, application clusters exhibit a number of undesirable behaviors, such as:
+	
+\begin{description}
+	\item[$\bullet$] {\bfseries Cache Drift :} if each application instance maintains its own cache, updates made to one cache will not appear in the other instances. This also happens to web session data. A distributed or replicated cache ensures that all of the cache instances are kept in sync with each other.
+	\item[$\bullet$] {\bfseries Database Bottlenecks :}In a single-instance application, a cache effectively shields a database from the overhead of redundant queries. However, in a distributed application environment, each instance much load and keep its own cache fresh. The overhead of loading and refreshing multiple caches leads to database bottlenecks as more application instances are added. A distributed or replicated cache eliminates the per-instance overhead of loading and refreshing multiple caches from a database.
+\end{description}		
+
+
+
+
+
 
 \section{Message Queue}
+
+  Message queue provides asynchronous communication between multiple processes or multiple threads within a process that places the message or request in a queue without processing it immediately. It is used in the application where the incoming request are to be processed in specific order. Considering a application with the web service which receives many requests every second where no request can be lost and all the requests needs to be processed which is time consuming. This scenario requires message queue which would  manage all the request without losing them.In the scenario where the application is decoupled and the multiple components which is decoupled exchange information by sending messages between processes.
+
 \subsection{RabbitMQ}
+			
+			RabbitMQ is a open source multiple protocol messaging server written in Erlang which implements Advanced Messaging Queuing Protocol (AMQP) and other services such as the Amazon Simple Queue Service (SQS). RabbitMQ is used  by Instagram , Indeed.com ,Mozilla etc. RabbitMQ offers a better approach to hard coding information exchange patterns. When you use the messaging service, you create a producer that writes a message to a broker, which is responsible for accepting messages and routing them to consumer applications.  RabbitMQ brokers consist of three components: exchanges, bindings and queues.  Exchanges receive messages and distribute them to queues where consumer applications can read them. 
+			
 \subsection{Kafka}
+				
+				Apache Kafka is a fast, scalable, durable and fault-tolerant open source publish-subscribe messaging system. Kafka is often used in place Java message service and  Advanced Messaging Queuing Protocol (AMQP) because of its higher throughput, reliablitiy and replication.Apache storm( event processor) and Apache HBase(Hadoop Distributed Filesystem) both works very well in combination with kafka.
+							
 
 \section{Object Relational Mapper}
+					Object Relational Mapper(ORM) is mechanism of mapping the objects in the application to the relational objects of the data store. ORM provides a bunch of services for handling crud operations on applications database.ORM tools provide an object oriented query language which allows application developers to focus on the object model and not to have to be concerned with the database structure or SQL semantics. The ORM tool itself will translate the query language into the appropriate syntax for the database.The entire transaction can either be committed or rolled back. Multiple transactions can be active in memory in the same time, and each transactions changes are isolated form on another. It helps developer to avoid writing complex and tedious sql statement and eliminates the usage of JDBC APIs for result set or data handling.
+
 \subsection{Hibernate}
-\subsection{Doctrine 2}
+
+				Hibernate is an open source jave persistence framework  implementated based on Java Persistent API (JPA). It provides HQL (Hibernate Query Language), which is compatible with any database server and the hibernate internally converts HQL to underlying database query format and executes it. In ORM the table is mapped to java object allowing the use of OOP concepts like inheritance , encapsulation, etc. Hibernate provides caching mechanism which reduces number of database hit. Hibernate provides lazy fetching which helps to fetch required data contained in the object.
 
 
 
-\section{Managed Memcache}
-
-\subsection{Amazon ElastiCache}
 
 
-\section{Mobile Database}
 
-\subsection{Realm}
-\subsection{Couchbase}
-
-\section{In - Memory Database}
-
-\subsection{Redis}
-\subsection{Aerospike}
-
-
-\section{Platform as a Service}
-\subsection{Heroku}
-\subsection{Google App Engine}

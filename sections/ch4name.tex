@@ -1,28 +1,41 @@
 \chapter{Business Layer}\label{ch:ch4label}
-			Primary goal of the business Layer is have maximum possible modules  
-
-\section{Mobile Back End}
-
-\subsection{Parse}
-\subsection{Appcelerator}
-
+			
+			Primary goal of the business Layer is have maximum possible modules  separated logically for easy maintenance.This layer contains the business/domain logic, i.e. rules that are particular to the problem that the application has been built to handle. Complex data structure which solves the business problem are implemented in this layer. The entities related to the business problem are declared in such a way that the relationship among the entities are maintained.Business entities store data values and expose them through properties; they contain and manage business data used by an application and provide stateful programmatic access to the business data and related functionality.   
+			Business work flow is one of the major component implemented in business layer.The sequence of user task and the processing business logic to satisfy business rules differs according the scenarios and the use case. Work flow can be used to sequence and coordinate the functionality to complete them. There are three basic types of work flow style : Sequential, State machine and Data driven.
+			
+\begin{description}
+\item[$\bullet$] {\bfseries Sequential :} This work flow controls the sequence of activities and decides which of the process will be executed next. Although a sequential work flow can include conditional branching and looping, the path it follows is predictable.
+\item[$\bullet$] {\bfseries State Machine :} In this style, the work flow acquires a given state and waits for events to occur before moving into another state. Consider the state-machine style if you require work flows designed for event driven scenarios, user interface page flows such as a wizard interface, or order processing systems where the steps and processes applied depend on data within the order.
+\item[$\bullet$] {\bfseries Data Driven :} n this style, information in the document determines which activities the work flow will execute. It is appropriate for tasks such as a document approval process.
+\end{description}	
+			 
+			 
 \section{Web Server}
+				Web Server is a platform or environment where a server-side program can be execute and hosted in Web server's port. A Web server handles the HTTP protocol. When the Web server receives an HTTP request, it responds with an HTTP response, such as sending back an HTML page. To process a request, a Web server may respond with a static HTML page or image, send a redirect, or delegate the dynamic response generation to some other program such as CGI scripts, JSPs (JavaServer Pages), servlets, ASPs (Active Server Pages), server-side JavaScripts, or some other server-side technology.
 
 \subsection{NGINX}
+              NGINX is a free, open-source, high-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server and a generic TCP/UDP proxy server. NGINX is known for its high performance, stability, rich feature set, simple configuration, and low resource consumption.Handling high concurrency with high performance and efficiency has always been the key benefit of deploying nginx. It provides the key features necessary to conveniently offload concurrency, latency processing, SSL (secure sockets layer), static content, compression and caching, connections and requests throttling, and even HTTP media streaming from the application layer to a much more efficient edge web server layer. It also allows integrating directly with memcached/Redis or other "NoSQL" solutions, to boost performance when serving a large number of concurrent users. It has ability to handle more than 10,000 simultaneous connection. Nginx uses the event handling pattern which handles a service requests concurrently to a service handler by one or more inputs. It is a single threaded but can fork several processes to utilize multicore.
+              
+
 \subsection{Apache HTTP Server}
-\subsection{Microsoft IIS}
+				Apache HTTP Server is a one of the open source web server most commonly used in the world. Apache provides a variety of multi-processing modules (Apache calls these MPMs) that dictate how client requests are handled. Basically, this allows administrators to swap out its connection handling architecture easily. Apache servers can handle static content using its conventional file-based methods. 
+				
+				Apache can also process dynamic content by embedding a processor of the language in question into each of its worker instances. This allows it to execute dynamic content within the web server itself without having to rely on external components. These dynamic processors can be enabled through the use of dynamically loadable modules. Apache's ability to handle dynamic content internally means that configuration of dynamic processing tends to be simpler. 				
+
 
 \section{Business Process Management}
+			
+			Business Process Management is supported by Business Process Model and Notation (BPMN) by providing a notation that is intuitive to business user, yet able to represent complex process semantics. A business process allows you to model the business goals by describing the steps that need to be executed to achieve that goal and the order, using a flow chart. This greatly improves the visibility and agility of your business logic, results in higher-level and domain-specific representations that can be understood by business users and is easier to monitor.
 
 \subsection{Java Business Process Management}
 
-\section{Real Time Back End}
+					The core of jBPM is a light-weight, extensible workflow engine written in pure Java that allows you to execute business processes using the latest BPMN 2.0 specification. It can run in any Java environment, embedded in your application or as a service.	jBPM supports adaptive and dynamic processes that require flexibility to model complex, real-life situations that cannot easily be described using a rigid process. We bring control back to the end users by allowing them to control which parts of the process should be executed, to dynamically deviate from the process, etc.
 
-\subsection{Socket.IO}
-\subsection{Firebase}
-
+jBPM is also not just an isolated process engine. Complex business logic can be modeled as a combination of business processes with business rules and complex event processing. jBPM can be combined with the Drools project to support one unified environment that integrates these paradigms where you model your business logic as a combination of processes, rules and events.			
+				
 
 \section{Platform as a Service}
+
 \subsection{Heroku}
 \subsection{Google App Engine}
 

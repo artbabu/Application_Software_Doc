@@ -57,37 +57,21 @@
 
 \section{Key - Value Database}
 
-			Key-Value database is considered to be a simplest way storing data in the form of key-value pair and retrieving data based on key value. An advanced form of key-value store introduces the sorting of keys which enables an ordered processing of keys. Key-value database is also known as NoSQL databases. Key-Value store works differently when compared to relational database and it addresses several issues which relational database didn't address. Relational database 
+			Key-Value database is considered to be a simplest way storing data in the form of key-value pair and retrieving data based on key value. An advanced form of key-value store introduces the sorting of keys which enables an ordered processing of keys. Key-value database is also known as NoSQL databases. Key-Value store works differently when compared to relational database and it addresses several issues which relational database didn't address. Currently Oracle NoSQL , MongoDB and Redis are popularly used NoSQL database.  
 
 \begin{description}
-	\item[$\bullet$] Relational databases expects the schemas to be pre-defined which is poorly suited for agile development approaches as the schemas changes as the feature evolves.
+	\item[$\bullet$] {\bfseries Dynamic Schemas :} Relational databases expects the schemas to be pre-defined which is poorly suited for agile development approaches as the schemas changes as the feature evolves.NoSQL allows insertion of data without predefined schema.This feature makes the applications changes easy in real time which promotes reliable code integration.
+	\item[$\bullet$] {\bfseries Auto-Sharding :} It is supported by NoSQL databases which allows them to natively and automatically spread data across an arbitrary number of servers, without requiring the application to even be aware of composition of server pool.Using cloud computing makes sharding way more easier providing the same processing and storage capabilities as a single high-end server for a fraction of the price. Relational database is hosted in a single server which is vulnerable to single point of failure. Even though many database server are integrated programatically, the transactional integrity are eliminated by employing manual sharding.
+	
+	\item[$\bullet$] {\bfseries Integrated Caching :} Many frameworks or Tools provides caching for SQL database systems which can improve read performance , but they do not improve write performance. NoSql offers completely managed integrated in-memory database management layer for the workloads demanding the highest throughput and lowest latency.  
 	
 \end{description}			
-			
-		
-			
-\subsection{Redis}
-\subsection{Oracle NoSQL}
-\subsection{MongoDB}
 
-\section{Graph Database}
-
-\subsection{Neo4j}
-\subsection{Titan}
-
-
-
-
-
-
-
-\section{In - Memory Database}
-
-\subsection{Redis}
-\subsection{Aerospike}
 
 \section{Cloud Storage}
+		
+			Cloud storage is a service where data is remotely maintained, managed and backed up. This service enables the user store data online which can be accessed through remote servers and cuts down on the space you use on the application server computer. It handles sharding and replications automatically which provides highly stable database that handles any type of application load. Mostly the cloud dataStore are schemaless database which allows flexible  to changes made in application entities as it evloves. Amazon Web Services(AWS) and Google Cloud Datastore are the mostly used cloud platform in recent days. Amazon web service provides cost effective object storage for different varieties of cloud-based database service including both relational and NoSQL databases. Amazon Relational Database either run Mysql ,Oracle or SQL Server, while Amazon SimpleDB offers schemaless database which is suitable for smaller workload. Amazon DynamoDB is a NoSQL database backed by a solid state drive which is considered to be AWS's fastest growing service. Google Cloud DataStore is a NoSQL document database built for automatic scaling and high performance.It also handles automatic sharding and replication, providing you with a highly available and durable database that scales automatically to handle application load.
+			
+									
 
-\subsection{Amazon S3}
-\subsection{Amazon EBS}
-\subsection{Google Cloud Storage}
+
